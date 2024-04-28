@@ -6,7 +6,7 @@ from time import sleep
 import datetime
 
 __author__ = "QWERTY770"
-__version__ = "1.0"
+__version__ = "1.1"
 __license__ = "MIT License"
 end = datetime.datetime.now(tz=datetime.timezone(datetime.timedelta(hours=+8)))
 start = end - datetime.timedelta(days=30)
@@ -46,11 +46,19 @@ def get_active_list() -> list:
     return result
 
 
+def main_group(groups: list[str]) -> str:
+    li = ["系统管理员", "行政员", "界面管理员", "管理员", "巡查员", "机器人", "巡查豁免者"]
+    for i in li:
+        if i in groups:
+            return i
+    return ""
+
+
 def get_wikitext(li: list) -> str:
     result = f"""{{| class="wikitable sortable collapsible"
 |+ {start.year}年{start.month}月{start.day}日-{end.year}年{end.month}月{end.day}日活跃用户列表
 |-
-! 排名 !! 用户名 !! 操作数 !! 本地/特殊用户组"""
+! 排名 !! 用户名 !! 操作数 !! 主用户组 !! 其他本地/全域/特殊用户组"""
     rank = pre_rank = 0
     pre = 0
     for data in li:
@@ -60,10 +68,15 @@ def get_wikitext(li: list) -> str:
             pre = data[1]
         result += "\n|-\n"
         result += f"| {pre_rank} || [[User:{data[0]}|{data[0]}]] || {data[1]} ||"
-        for g in data[2]:
-            result += f" [[Minecraft Wiki:{g}|{g}]]"
-        if len(data[2]) == 0:
+        main = main_group(data[2])
+        if main:
+            result += f" [[Minecraft Wiki:{main}|{main}]]"
+        else:
             result += " 无"
+        result += " ||"
+        for g in data[2]:
+            if g != main:
+                result += f" [[Minecraft Wiki:{g}|{g}]]"
     result += "\n|}"
     return result
 
