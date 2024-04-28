@@ -8,7 +8,7 @@ import datetime
 __author__ = "QWERTY770"
 __version__ = "1.0"
 __license__ = "MIT License"
-end = datetime.datetime.now()
+end = datetime.datetime.now(tz=datetime.timezone(datetime.timedelta(hours=+8)))
 start = end - datetime.timedelta(days=30)
 url = "https://zh.minecraft.wiki/w/Special:%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7?username="
 

@@ -30,8 +30,6 @@ jobs:
         echo "CURRENT_DATE=$(TZ=':Asia/Shanghai' date '+%Y%m%d-%H%M%S')" >> $GITHUB_ENV
     - name: Commit
       run: |
-        git config --global user.email 2691475984@qq.com
-        git config --global user.name Justin Zhang
         git add .
         git commit -m "update ${{env.CURRENT_DATE}}" -a
     - name: Push changes
