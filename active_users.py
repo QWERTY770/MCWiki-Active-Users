@@ -1,8 +1,13 @@
+import os.path
+
 from bs4 import BeautifulSoup
 import requests
 from time import sleep
 import datetime
 
+__author__ = "QWERTY770"
+__version__ = "1.0"
+__license__ = "MIT License"
 end = datetime.datetime.now()
 start = end - datetime.timedelta(days=30)
 url = "https://zh.minecraft.wiki/w/Special:%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7?username="
@@ -65,5 +70,7 @@ def get_wikitext(li: list) -> str:
 
 if __name__ == "__main__":
     li = get_active_list()
-    with open(f"active-users-{end.strftime('%Y%m%d-%H%M%S')}.txt", "w", encoding="utf-8") as file:
+    if not os.path.exists(f"data/{end.year}"):
+        os.makedirs(f"data/{end.year}")
+    with open(f"data/{end.year}/active-users-{end.strftime('%Y%m%d-%H%M%S')}.txt", "w", encoding="utf-8") as file:
         file.write(get_wikitext(li))
