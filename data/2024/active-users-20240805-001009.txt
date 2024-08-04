@@ -1,0 +1,701 @@
+{| class="wikitable sortable collapsible"
+|+ 2024年7月6日-2024年8月5日活跃用户列表
+|-
+! 排名 !! 用户名 !! 操作数 !! 主用户组 !! 其他本地/全域/特殊用户组
+|-
+| 1 || [[User:Lebot768|Lebot768]] || 11,399 || [[Minecraft Wiki:机器人|机器人]] ||
+|-
+| 2 || [[User:Leo leo 768|Leo leo 768]] || 1,519 || [[Minecraft Wiki:界面管理员|界面管理员]] || [[Minecraft Wiki:巡查员|巡查员]]
+|-
+| 3 || [[User:TeaSummer|TeaSummer]] || 1,236 || 无 ||
+|-
+| 4 || [[User:XiaoXin666|XiaoXin666]] || 1,190 || [[Minecraft Wiki:管理员|管理员]] ||
+|-
+| 5 || [[User:Emm|Emm]] || 709 || [[Minecraft Wiki:巡查豁免者|巡查豁免者]] ||
+|-
+| 6 || [[User:Wilf233|Wilf233]] || 636 || [[Minecraft Wiki:巡查员|巡查员]] ||
+|-
+| 7 || [[User:Luoboju0|Luoboju0]] || 599 || [[Minecraft Wiki:巡查豁免者|巡查豁免者]] ||
+|-
+| 8 || [[User:Nickid2018|Nickid2018]] || 492 || [[Minecraft Wiki:巡查豁免者|巡查豁免者]] ||
+|-
+| 9 || [[User:SpCoBot|SpCoBot]] || 473 || [[Minecraft Wiki:机器人|机器人]] ||
+|-
+| 10 || [[User:SpCo|SpCo]] || 449 || [[Minecraft Wiki:巡查豁免者|巡查豁免者]] ||
+|-
+| 11 || [[User:CaN2crow987|CaN2crow987]] || 388 || [[Minecraft Wiki:巡查豁免者|巡查豁免者]] ||
+|-
+| 12 || [[User:McplayerFS|McplayerFS]] || 383 || [[Minecraft Wiki:巡查豁免者|巡查豁免者]] ||
+|-
+| 13 || [[User:Ggg|Ggg]] || 285 || 无 ||
+|-
+| 14 || [[User:YukiSugar|YukiSugar]] || 282 || [[Minecraft Wiki:巡查豁免者|巡查豁免者]] ||
+|-
+| 15 || [[User:SongBellsen|SongBellsen]] || 261 || 无 ||
+|-
+| 16 || [[User:MysticNebula70|MysticNebula70]] || 190 || [[Minecraft Wiki:行政员|行政员]] || [[Minecraft Wiki:管理员|管理员]]
+|-
+| 17 || [[User:Anterdc99|Anterdc99]] || 177 || [[Minecraft Wiki:管理员|管理员]] ||
+|-
+| 18 || [[User:J zhui|J zhui]] || 154 || 无 ||
+|-
+| 19 || [[User:Siiftun1857|Siiftun1857]] || 150 || [[Minecraft Wiki:巡查员|巡查员]] ||
+|-
+| 20 || [[User:Dovisutu|Dovisutu]] || 136 || 无 ||
+|-
+| 21 || [[User:Chixvv|Chixvv]] || 135 || [[Minecraft Wiki:巡查豁免者|巡查豁免者]] ||
+|-
+| 22 || [[User:Yzy32767|Yzy32767]] || 134 || [[Minecraft Wiki:巡查豁免者|巡查豁免者]] ||
+|-
+| 23 || [[User:CubeLoco|CubeLoco]] || 118 || 无 ||
+|-
+| 24 || [[User:Ian-zb|Ian-zb]] || 115 || 无 ||
+|-
+| 25 || [[User:Delvin4519|Delvin4519]] || 112 || 无 ||
+|-
+| 26 || [[User:IcenPhantom|IcenPhantom]] || 109 || 无 ||
+|-
+| 27 || [[User:ChenJerry|ChenJerry]] || 101 || 无 ||
+|-
+| 28 || [[User:Ultim 0|Ultim 0]] || 85 || [[Minecraft Wiki:巡查豁免者|巡查豁免者]] ||
+|-
+| 29 || [[User:Hos Soh|Hos Soh]] || 84 || 无 ||
+|-
+| 30 || [[User:AblazeVase69188|AblazeVase69188]] || 78 || [[Minecraft Wiki:巡查豁免者|巡查豁免者]] ||
+|-
+| 30 || [[User:Rowboat123|Rowboat123]] || 78 || 无 ||
+|-
+| 32 || [[User:Abigpigeon|Abigpigeon]] || 75 || 无 ||
+|-
+| 32 || [[User:Jumao|Jumao]] || 75 || 无 ||
+|-
+| 34 || [[User:Lxazl5770|Lxazl5770]] || 74 || [[Minecraft Wiki:行政员|行政员]] || [[Minecraft Wiki:管理员|管理员]]
+|-
+| 35 || [[User:ZhangchengG237|ZhangchengG237]] || 58 || 无 ||
+|-
+| 36 || [[User:Colin 319|Colin 319]] || 56 || 无 ||
+|-
+| 37 || [[User:Benben|Benben]] || 54 || 无 ||
+|-
+| 37 || [[User:Idoumm|Idoumm]] || 54 || 无 ||
+|-
+| 39 || [[User:A grass cube509|A grass cube509]] || 47 || 无 ||
+|-
+| 40 || [[User:UniIght17|UniIght17]] || 46 || 无 ||
+|-
+| 41 || [[User:SkyEye FAST|SkyEye FAST]] || 43 || 无 ||
+|-
+| 42 || [[User:Hatsuki kiri|Hatsuki kiri]] || 36 || [[Minecraft Wiki:管理员|管理员]] || [[Minecraft Wiki:巡查豁免者|巡查豁免者]]
+|-
+| 43 || [[User:我叫小张|我叫小张]] || 34 || 无 ||
+|-
+| 44 || [[User:SymORmaK|SymORmaK]] || 32 || 无 ||
+|-
+| 45 || [[User:Iddon|Iddon]] || 29 || 无 ||
+|-
+| 45 || [[User:MCluoluo|MCluoluo]] || 29 || [[Minecraft Wiki:巡查豁免者|巡查豁免者]] ||
+|-
+| 47 || [[User:Eletron ProCoress|Eletron ProCoress]] || 27 || 无 ||
+|-
+| 48 || [[User:SorajimaAsugawa|SorajimaAsugawa]] || 26 || [[Minecraft Wiki:巡查豁免者|巡查豁免者]] ||
+|-
+| 49 || [[User:Kuzukai|Kuzukai]] || 25 || 无 ||
+|-
+| 49 || [[User:滥用过滤器|滥用过滤器]] || 25 || [[Minecraft Wiki:管理员|管理员]] ||
+|-
+| 51 || [[User:Eason2013|Eason2013]] || 24 || 无 ||
+|-
+| 51 || [[User:METROKOP228 UA|METROKOP228 UA]] || 24 || 无 ||
+|-
+| 51 || [[User:Rosa hybrida659|Rosa hybrida659]] || 24 || 无 ||
+|-
+| 51 || [[User:TigerZhang|TigerZhang]] || 24 || 无 ||
+|-
+| 51 || [[User:Uphill|Uphill]] || 24 || 无 ||
+|-
+| 51 || [[User:Yuhan366|Yuhan366]] || 24 || 无 ||
+|-
+| 57 || [[User:WoozieSA|WoozieSA]] || 23 || 无 ||
+|-
+| 58 || [[User:不知道怎么起用户名|不知道怎么起用户名]] || 22 || 无 ||
+|-
+| 59 || [[User:Oak tree|Oak tree]] || 21 || 无 ||
+|-
+| 59 || [[User:QWERTY-5238|QWERTY-5238]] || 21 || 无 ||
+|-
+| 61 || [[User:Computerb|Computerb]] || 20 || 无 ||
+|-
+| 62 || [[User:4²K|4²K]] || 19 || 无 ||
+|-
+| 62 || [[User:EvetS|EvetS]] || 19 || 无 ||
+|-
+| 62 || [[User:GB-2312|GB-2312]] || 19 || 无 ||
+|-
+| 65 || [[User:Don Trueno|Don Trueno]] || 18 || 无 ||
+|-
+| 65 || [[User:Thgabs|Thgabs]] || 18 || 无 ||
+|-
+| 65 || [[User:白滑|白滑]] || 18 || 无 ||
+|-
+| 68 || [[User:Ra1n60w|Ra1n60w]] || 14 || 无 ||
+|-
+| 69 || [[User:Ch3cooh|Ch3cooh]] || 13 || 无 ||
+|-
+| 69 || [[User:Harristic|Harristic]] || 13 || 无 ||
+|-
+| 69 || [[User:Ilya Yezerovsky|Ilya Yezerovsky]] || 13 || 无 ||
+|-
+| 69 || [[User:Liwenlen|Liwenlen]] || 13 || 无 ||
+|-
+| 69 || [[User:Pimburger|Pimburger]] || 13 || 无 ||
+|-
+| 69 || [[User:SkinStandCurt|SkinStandCurt]] || 13 || 无 ||
+|-
+| 69 || [[User:TestifyParadise|TestifyParadise]] || 13 || 无 ||
+|-
+| 69 || [[User:ZZY15830007369w|ZZY15830007369w]] || 13 || 无 ||
+|-
+| 69 || [[User:一只卑微的量筒|一只卑微的量筒]] || 13 || 无 ||
+|-
+| 69 || [[User:得得撸|得得撸]] || 13 || 无 ||
+|-
+| 79 || [[User:Huaimin4ward|Huaimin4ward]] || 12 || 无 ||
+|-
+| 79 || [[User:张焱涵|张焱涵]] || 12 || 无 ||
+|-
+| 81 || [[User:Littleparot|Littleparot]] || 11 || 无 ||
+|-
+| 81 || [[User:Nether quartz ore|Nether quartz ore]] || 11 || 无 ||
+|-
+| 83 || [[User:A little water|A little water]] || 10 || 无 ||
+|-
+| 83 || [[User:Aero123321|Aero123321]] || 10 || 无 ||
+|-
+| 83 || [[User:Francis0725|Francis0725]] || 10 || 无 ||
+|-
+| 83 || [[User:In Minecraft|In Minecraft]] || 10 || 无 ||
+|-
+| 83 || [[User:Mkp|Mkp]] || 10 || 无 ||
+|-
+| 83 || [[User:Txt|Txt]] || 10 || 无 ||
+|-
+| 89 || [[User:AkarinLiu|AkarinLiu]] || 9 || 无 ||
+|-
+| 89 || [[User:BoredYukolin|BoredYukolin]] || 9 || 无 ||
+|-
+| 89 || [[User:Lakejason0|Lakejason0]] || 9 || [[Minecraft Wiki:巡查豁免者|巡查豁免者]] ||
+|-
+| 92 || [[User:Andy Take a picture|Andy Take a picture]] || 8 || 无 ||
+|-
+| 92 || [[User:Bobby|Bobby]] || 8 || 无 ||
+|-
+| 92 || [[User:Jekend|Jekend]] || 8 || 无 ||
+|-
+| 92 || [[User:Mcenahle|Mcenahle]] || 8 || 无 ||
+|-
+| 92 || [[User:NissanGTR0001|NissanGTR0001]] || 8 || 无 ||
+|-
+| 92 || [[User:Ooo|Ooo]] || 8 || 无 ||
+|-
+| 92 || [[User:WilliamLi|WilliamLi]] || 8 || 无 ||
+|-
+| 92 || [[User:Wing·Francis·Smith|Wing·Francis·Smith]] || 8 || 无 ||
+|-
+| 92 || [[User:Yetianyi0812|Yetianyi0812]] || 8 || 无 ||
+|-
+| 92 || [[User:ZYJ27726|ZYJ27726]] || 8 || 无 ||
+|-
+| 102 || [[User:Breeze|Breeze]] || 7 || 无 ||
+|-
+| 102 || [[User:Dahesor|Dahesor]] || 7 || 无 ||
+|-
+| 102 || [[User:HDL|HDL]] || 7 || 无 ||
+|-
+| 102 || [[User:Yukkuri Shambis|Yukkuri Shambis]] || 7 || 无 ||
+|-
+| 102 || [[User:台风|台风]] || 7 || 无 ||
+|-
+| 102 || [[User:咕咕|咕咕]] || 7 || 无 ||
+|-
+| 108 || [[User:Akinoqwq|Akinoqwq]] || 6 || 无 ||
+|-
+| 108 || [[User:DMD|DMD]] || 6 || 无 ||
+|-
+| 108 || [[User:Hopə|Hopə]] || 6 || 无 ||
+|-
+| 108 || [[User:Just theasbg|Just theasbg]] || 6 || 无 ||
+|-
+| 108 || [[User:ProjectXero|ProjectXero]] || 6 || 无 ||
+|-
+| 108 || [[User:Qwertydf t|Qwertydf t]] || 6 || 无 ||
+|-
+| 108 || [[User:Shrusabsa999|Shrusabsa999]] || 6 || 无 ||
+|-
+| 108 || [[User:Srcmirror|Srcmirror]] || 6 || 无 ||
+|-
+| 108 || [[User:Vil4ckc|Vil4ckc]] || 6 || 无 ||
+|-
+| 108 || [[User:迷茫的维生素|迷茫的维生素]] || 6 || 无 ||
+|-
+| 118 || [[User:Asds|Asds]] || 5 || 无 ||
+|-
+| 118 || [[User:Cff 0102|Cff 0102]] || 5 || 无 ||
+|-
+| 118 || [[User:Champsing|Champsing]] || 5 || 无 ||
+|-
+| 118 || [[User:DXGdoude|DXGdoude]] || 5 || 无 ||
+|-
+| 118 || [[User:Lyglq|Lyglq]] || 5 || 无 ||
+|-
+| 118 || [[User:MR.XW|MR.XW]] || 5 || 无 ||
+|-
+| 118 || [[User:Minecraft23571113|Minecraft23571113]] || 5 || 无 ||
+|-
+| 118 || [[User:Mother|Mother]] || 5 || 无 ||
+|-
+| 118 || [[User:Qq2014698804|Qq2014698804]] || 5 || 无 ||
+|-
+| 118 || [[User:UnknownSomebody114|UnknownSomebody114]] || 5 || 无 ||
+|-
+| 118 || [[User:Xhsdongzi|Xhsdongzi]] || 5 || 无 ||
+|-
+| 118 || [[User:创作中的莱姆|创作中的莱姆]] || 5 || 无 ||
+|-
+| 118 || [[User:导员|导员]] || 5 || 无 ||
+|-
+| 118 || [[User:雨中剥橙|雨中剥橙]] || 5 || 无 ||
+|-
+| 132 || [[User:1p6kk|1p6kk]] || 4 || 无 ||
+|-
+| 132 || [[User:Biubiu333|Biubiu333]] || 4 || 无 ||
+|-
+| 132 || [[User:Bkj|Bkj]] || 4 || 无 ||
+|-
+| 132 || [[User:GoldFISH-Nzh|GoldFISH-Nzh]] || 4 || 无 ||
+|-
+| 132 || [[User:Ian|Ian]] || 4 || 无 ||
+|-
+| 132 || [[User:JYN2018X|JYN2018X]] || 4 || 无 ||
+|-
+| 132 || [[User:Piko2674|Piko2674]] || 4 || 无 ||
+|-
+| 132 || [[User:RedstonePlain|RedstonePlain]] || 4 || 无 ||
+|-
+| 132 || [[User:Sheep-realms|Sheep-realms]] || 4 || 无 ||
+|-
+| 132 || [[User:TwilightDayStar|TwilightDayStar]] || 4 || 无 ||
+|-
+| 132 || [[User:WNFYJC2024|WNFYJC2024]] || 4 || 无 ||
+|-
+| 132 || [[User:Xtex|Xtex]] || 4 || 无 ||
+|-
+| 132 || [[User:Xwh|Xwh]] || 4 || 无 ||
+|-
+| 132 || [[User:Yeliang|Yeliang]] || 4 || 无 ||
+|-
+| 132 || [[User:数列的通项公式|数列的通项公式]] || 4 || 无 ||
+|-
+| 132 || [[User:雷岚|雷岚]] || 4 || 无 ||
+|-
+| 148 || [[User:AFCA1|AFCA1]] || 3 || 无 ||
+|-
+| 148 || [[User:AstralOcean|AstralOcean]] || 3 || 无 ||
+|-
+| 148 || [[User:Bestcb233|Bestcb233]] || 3 || 无 ||
+|-
+| 148 || [[User:Bojin1030|Bojin1030]] || 3 || 无 ||
+|-
+| 148 || [[User:Chao CPT|Chao CPT]] || 3 || 无 ||
+|-
+| 148 || [[User:Glow.Octopus|Glow.Octopus]] || 3 || 无 ||
+|-
+| 148 || [[User:Hya|Hya]] || 3 || 无 ||
+|-
+| 148 || [[User:IBuckeeet|IBuckeeet]] || 3 || [[Minecraft Wiki:巡查豁免者|巡查豁免者]] ||
+|-
+| 148 || [[User:Jeremy1403|Jeremy1403]] || 3 || 无 ||
+|-
+| 148 || [[User:LeoLu|LeoLu]] || 3 || 无 ||
+|-
+| 148 || [[User:Lifeihao|Lifeihao]] || 3 || 无 ||
+|-
+| 148 || [[User:Lixian-qwq|Lixian-qwq]] || 3 || 无 ||
+|-
+| 148 || [[User:Lmray28|Lmray28]] || 3 || 无 ||
+|-
+| 148 || [[User:Logic-o|Logic-o]] || 3 || 无 ||
+|-
+| 148 || [[User:MarkusRost|MarkusRost]] || 3 || 无 || [[Minecraft Wiki:全域破坏处理员|全域破坏处理员]] [[Minecraft Wiki:全域界面维护员|全域界面维护员]]
+|-
+| 148 || [[User:Miemiemethod|Miemiemethod]] || 3 || 无 ||
+|-
+| 148 || [[User:Nitwit|Nitwit]] || 3 || 无 ||
+|-
+| 148 || [[User:Olvcpr423|Olvcpr423]] || 3 || 无 ||
+|-
+| 148 || [[User:Patcho|Patcho]] || 3 || 无 ||
+|-
+| 148 || [[User:Pikachu-ZH|Pikachu-ZH]] || 3 || 无 ||
+|-
+| 148 || [[User:Ritchie|Ritchie]] || 3 || 无 ||
+|-
+| 148 || [[User:ShiMengXin|ShiMengXin]] || 3 || 无 ||
+|-
+| 148 || [[User:TK|TK]] || 3 || 无 ||
+|-
+| 148 || [[User:Wms987|Wms987]] || 3 || 无 ||
+|-
+| 148 || [[User:Xyhddd|Xyhddd]] || 3 || 无 ||
+|-
+| 148 || [[User:Yucolll|Yucolll]] || 3 || 无 ||
+|-
+| 148 || [[User:Ziyizuishuai|Ziyizuishuai]] || 3 || 无 ||
+|-
+| 148 || [[User:三卤甲烷|三卤甲烷]] || 3 || 无 ||
+|-
+| 148 || [[User:发电方块人|发电方块人]] || 3 || 无 ||
+|-
+| 148 || [[User:小方塊|小方塊]] || 3 || 无 ||
+|-
+| 148 || [[User:星辰|星辰]] || 3 || 无 ||
+|-
+| 179 || [[User:Arehors|Arehors]] || 2 || 无 ||
+|-
+| 179 || [[User:Beijibing520|Beijibing520]] || 2 || 无 ||
+|-
+| 179 || [[User:CE2R-MC|CE2R-MC]] || 2 || 无 ||
+|-
+| 179 || [[User:Checkmate5834|Checkmate5834]] || 2 || 无 ||
+|-
+| 179 || [[User:Commusic|Commusic]] || 2 || 无 ||
+|-
+| 179 || [[User:Dr saw|Dr saw]] || 2 || 无 ||
+|-
+| 179 || [[User:Esuity|Esuity]] || 2 || 无 ||
+|-
+| 179 || [[User:Filexplorer|Filexplorer]] || 2 || 无 ||
+|-
+| 179 || [[User:FkrSteVe|FkrSteVe]] || 2 || 无 ||
+|-
+| 179 || [[User:Fony|Fony]] || 2 || 无 ||
+|-
+| 179 || [[User:ICE CUBE|ICE CUBE]] || 2 || 无 ||
+|-
+| 179 || [[User:IdoummOfficial|IdoummOfficial]] || 2 || 无 ||
+|-
+| 179 || [[User:Ikun0|Ikun0]] || 2 || 无 ||
+|-
+| 179 || [[User:InfernalAtom683|InfernalAtom683]] || 2 || 无 ||
+|-
+| 179 || [[User:Jiaqi|Jiaqi]] || 2 || 无 ||
+|-
+| 179 || [[User:LYX2009|LYX2009]] || 2 || 无 ||
+|-
+| 179 || [[User:Le Petit C|Le Petit C]] || 2 || 无 ||
+|-
+| 179 || [[User:Liangkw01|Liangkw01]] || 2 || 无 ||
+|-
+| 179 || [[User:Lin morning|Lin morning]] || 2 || 无 ||
+|-
+| 179 || [[User:Lingbo|Lingbo]] || 2 || 无 ||
+|-
+| 179 || [[User:Lkjhgfdsa|Lkjhgfdsa]] || 2 || 无 ||
+|-
+| 179 || [[User:MCHuanqiu|MCHuanqiu]] || 2 || 无 ||
+|-
+| 179 || [[User:MacrosMeng|MacrosMeng]] || 2 || 无 ||
+|-
+| 179 || [[User:Maigofans|Maigofans]] || 2 || 无 ||
+|-
+| 179 || [[User:Minesunset1030|Minesunset1030]] || 2 || 无 ||
+|-
+| 179 || [[User:RealZvezda2008|RealZvezda2008]] || 2 || 无 ||
+|-
+| 179 || [[User:Riceawa|Riceawa]] || 2 || 无 ||
+|-
+| 179 || [[User:Shell Bamboo|Shell Bamboo]] || 2 || 无 ||
+|-
+| 179 || [[User:ShenRunTing|ShenRunTing]] || 2 || 无 ||
+|-
+| 179 || [[User:Sladkaya Nyasha|Sladkaya Nyasha]] || 2 || 无 ||
+|-
+| 179 || [[User:Survivor0321|Survivor0321]] || 2 || 无 ||
+|-
+| 179 || [[User:Sweet Patrick|Sweet Patrick]] || 2 || 无 ||
+|-
+| 179 || [[User:TweNTy|TweNTy]] || 2 || 无 ||
+|-
+| 179 || [[User:What7what8|What7what8]] || 2 || 无 ||
+|-
+| 179 || [[User:Whwdzg|Whwdzg]] || 2 || 无 ||
+|-
+| 179 || [[User:Wilfbot|Wilfbot]] || 2 || 无 ||
+|-
+| 179 || [[User:Windows phx|Windows phx]] || 2 || 无 ||
+|-
+| 179 || [[User:X RedPlayer X|X RedPlayer X]] || 2 || 无 ||
+|-
+| 179 || [[User:XZYR1|XZYR1]] || 2 || 无 ||
+|-
+| 179 || [[User:Xiaoshu|Xiaoshu]] || 2 || 无 ||
+|-
+| 179 || [[User:Xiyihan|Xiyihan]] || 2 || 无 ||
+|-
+| 179 || [[User:YtRoblox|YtRoblox]] || 2 || 无 ||
+|-
+| 179 || [[User:Zhenlige|Zhenlige]] || 2 || 无 ||
+|-
+| 179 || [[User:Zhizhu|Zhizhu]] || 2 || 无 ||
+|-
+| 179 || [[User:Zui Hongchen|Zui Hongchen]] || 2 || 无 ||
+|-
+| 179 || [[User:临时账号|临时账号]] || 2 || 无 ||
+|-
+| 179 || [[User:克拉克|克拉克]] || 2 || 无 ||
+|-
+| 179 || [[User:苦力猫|苦力猫]] || 2 || 无 ||
+|-
+| 179 || [[User:马柴龙|马柴龙]] || 2 || 无 ||
+|-
+| 228 || [[User:0x4D2|0x4D2]] || 1 || 无 ||
+|-
+| 228 || [[User:123456qwe|123456qwe]] || 1 || 无 ||
+|-
+| 228 || [[User:4ebugger|4ebugger]] || 1 || 无 ||
+|-
+| 228 || [[User:AApricity|AApricity]] || 1 || 无 ||
+|-
+| 228 || [[User:Aguai|Aguai]] || 1 || 无 ||
+|-
+| 228 || [[User:Andydo|Andydo]] || 1 || 无 ||
+|-
+| 228 || [[User:Anesthesia|Anesthesia]] || 1 || 无 ||
+|-
+| 228 || [[User:Asministator|Asministator]] || 1 || 无 ||
+|-
+| 228 || [[User:Black MC|Black MC]] || 1 || 无 ||
+|-
+| 228 || [[User:Bob 88888888|Bob 88888888]] || 1 || 无 ||
+|-
+| 228 || [[User:CBerJun|CBerJun]] || 1 || 无 ||
+|-
+| 228 || [[User:Change Human|Change Human]] || 1 || 无 ||
+|-
+| 228 || [[User:ChengMaoMinecraft|ChengMaoMinecraft]] || 1 || 无 ||
+|-
+| 228 || [[User:Chiloven|Chiloven]] || 1 || 无 ||
+|-
+| 228 || [[User:Clexus|Clexus]] || 1 || 无 ||
+|-
+| 228 || [[User:Computerbot|Computerbot]] || 1 || 无 ||
+|-
+| 228 || [[User:Cool Pear|Cool Pear]] || 1 || 无 ||
+|-
+| 228 || [[User:DGCK81LNN|DGCK81LNN]] || 1 || 无 ||
+|-
+| 228 || [[User:Dreamhero|Dreamhero]] || 1 || 无 ||
+|-
+| 228 || [[User:Dshð|Dshð]] || 1 || 无 ||
+|-
+| 228 || [[User:Duowan channel|Duowan channel]] || 1 || 无 ||
+|-
+| 228 || [[User:ESTEBAN1303YT|ESTEBAN1303YT]] || 1 || 无 ||
+|-
+| 228 || [[User:EngonMc|EngonMc]] || 1 || 无 ||
+|-
+| 228 || [[User:Fanta5q|Fanta5q]] || 1 || 无 ||
+|-
+| 228 || [[User:Fenkolo|Fenkolo]] || 1 || 无 ||
+|-
+| 228 || [[User:FireQ|FireQ]] || 1 || 无 ||
+|-
+| 228 || [[User:Flight Jens Steve|Flight Jens Steve]] || 1 || 无 ||
+|-
+| 228 || [[User:Freeorange|Freeorange]] || 1 || 无 ||
+|-
+| 228 || [[User:GoldenDeep|GoldenDeep]] || 1 || 无 ||
+|-
+| 228 || [[User:H666|H666]] || 1 || 无 ||
+|-
+| 228 || [[User:HappyXiao|HappyXiao]] || 1 || 无 ||
+|-
+| 228 || [[User:HeArCrossbow|HeArCrossbow]] || 1 || 无 ||
+|-
+| 228 || [[User:HeartingBe|HeartingBe]] || 1 || 无 ||
+|-
+| 228 || [[User:HornCopper|HornCopper]] || 1 || 无 ||
+|-
+| 228 || [[User:Huangyu|Huangyu]] || 1 || 无 ||
+|-
+| 228 || [[User:INF32768|INF32768]] || 1 || 无 ||
+|-
+| 228 || [[User:IanLu|IanLu]] || 1 || 无 ||
+|-
+| 228 || [[User:JJDC|JJDC]] || 1 || 无 ||
+|-
+| 228 || [[User:Jandy|Jandy]] || 1 || 无 ||
+|-
+| 228 || [[User:Juruoya|Juruoya]] || 1 || 无 ||
+|-
+| 228 || [[User:Key|Key]] || 1 || 无 ||
+|-
+| 228 || [[User:KioProject|KioProject]] || 1 || 无 ||
+|-
+| 228 || [[User:Kongzhongtitian|Kongzhongtitian]] || 1 || 无 ||
+|-
+| 228 || [[User:LNBXS|LNBXS]] || 1 || 无 ||
+|-
+| 228 || [[User:LafiteWu|LafiteWu]] || 1 || 无 ||
+|-
+| 228 || [[User:Laialaodi|Laialaodi]] || 1 || 无 ||
+|-
+| 228 || [[User:LanCloud|LanCloud]] || 1 || 无 ||
+|-
+| 228 || [[User:Leidaozan|Leidaozan]] || 1 || 无 ||
+|-
+| 228 || [[User:Lev1a|Lev1a]] || 1 || 无 ||
+|-
+| 228 || [[User:Lez|Lez]] || 1 || 无 ||
+|-
+| 228 || [[User:Lin257|Lin257]] || 1 || 无 ||
+|-
+| 228 || [[User:Lishenhan3 4|Lishenhan3 4]] || 1 || 无 ||
+|-
+| 228 || [[User:LiuYan xwx|LiuYan xwx]] || 1 || 无 ||
+|-
+| 228 || [[User:Lmt|Lmt]] || 1 || 无 ||
+|-
+| 228 || [[User:Loye|Loye]] || 1 || 无 ||
+|-
+| 228 || [[User:MC wudi|MC wudi]] || 1 || 无 ||
+|-
+| 228 || [[User:Machalong|Machalong]] || 1 || 无 ||
+|-
+| 228 || [[User:Miaonya520|Miaonya520]] || 1 || 无 ||
+|-
+| 228 || [[User:Minecraft-dddddgz|Minecraft-dddddgz]] || 1 || 无 ||
+|-
+| 228 || [[User:Mingwangdada|Mingwangdada]] || 1 || 无 ||
+|-
+| 228 || [[User:Mintice|Mintice]] || 1 || 无 ||
+|-
+| 228 || [[User:Monguch|Monguch]] || 1 || 无 ||
+|-
+| 228 || [[User:MoonCat|MoonCat]] || 1 || 无 ||
+|-
+| 228 || [[User:Mr.hank|Mr.hank]] || 1 || 无 ||
+|-
+| 228 || [[User:MrBeacon|MrBeacon]] || 1 || 无 ||
+|-
+| 228 || [[User:MrC|MrC]] || 1 || 无 ||
+|-
+| 228 || [[User:Mzh|Mzh]] || 1 || 无 ||
+|-
+| 228 || [[User:NaClO4|NaClO4]] || 1 || 无 ||
+|-
+| 228 || [[User:Neuraxworm|Neuraxworm]] || 1 || 无 ||
+|-
+| 228 || [[User:Normal-pcer|Normal-pcer]] || 1 || 无 ||
+|-
+| 228 || [[User:Nulo-Bot|Nulo-Bot]] || 1 || 无 ||
+|-
+| 228 || [[User:OVERCOME|OVERCOME]] || 1 || 无 ||
+|-
+| 228 || [[User:OmPt|OmPt]] || 1 || 无 ||
+|-
+| 228 || [[User:OxLUIGIxO|OxLUIGIxO]] || 1 || 无 ||
+|-
+| 228 || [[User:Qongjv|Qongjv]] || 1 || 无 ||
+|-
+| 228 || [[User:SandClock|SandClock]] || 1 || 无 ||
+|-
+| 228 || [[User:Spring8618|Spring8618]] || 1 || 无 ||
+|-
+| 228 || [[User:StarZhangTl|StarZhangTl]] || 1 || 无 ||
+|-
+| 228 || [[User:Sukaretto215|Sukaretto215]] || 1 || 无 ||
+|-
+| 228 || [[User:SuperCuter32|SuperCuter32]] || 1 || 无 ||
+|-
+| 228 || [[User:SyhixTV|SyhixTV]] || 1 || 无 ||
+|-
+| 228 || [[User:Tenshi|Tenshi]] || 1 || 无 ||
+|-
+| 228 || [[User:Terlity|Terlity]] || 1 || 无 ||
+|-
+| 228 || [[User:The Non Useful|The Non Useful]] || 1 || 无 ||
+|-
+| 228 || [[User:ThirasFarbia|ThirasFarbia]] || 1 || 无 ||
+|-
+| 228 || [[User:Toeds|Toeds]] || 1 || 无 ||
+|-
+| 228 || [[User:Violetc|Violetc]] || 1 || 无 ||
+|-
+| 228 || [[User:Viper|Viper]] || 1 || 无 ||
+|-
+| 228 || [[User:Vkogdyfhfjzi2|Vkogdyfhfjzi2]] || 1 || 无 ||
+|-
+| 228 || [[User:WPFLauncher.exe|WPFLauncher.exe]] || 1 || 无 ||
+|-
+| 228 || [[User:WanTreeBulee|WanTreeBulee]] || 1 || 无 ||
+|-
+| 228 || [[User:Weird Gloop|Weird Gloop]] || 1 || [[Minecraft Wiki:机器人|机器人]] || [[Minecraft Wiki:职员|职员]]
+|-
+| 228 || [[User:Windows11w|Windows11w]] || 1 || 无 ||
+|-
+| 228 || [[User:XQH0317|XQH0317]] || 1 || 无 ||
+|-
+| 228 || [[User:XiaoHei321|XiaoHei321]] || 1 || 无 ||
+|-
+| 228 || [[User:Yangyang214|Yangyang214]] || 1 || 无 ||
+|-
+| 228 || [[User:Yangyuhao|Yangyuhao]] || 1 || 无 ||
+|-
+| 228 || [[User:Yuhan367|Yuhan367]] || 1 || 无 ||
+|-
+| 228 || [[User:Yzklpa|Yzklpa]] || 1 || 无 ||
+|-
+| 228 || [[User:Zamburger|Zamburger]] || 1 || 无 ||
+|-
+| 228 || [[User:Zhc|Zhc]] || 1 || 无 ||
+|-
+| 228 || [[User:ZmdNotFound|ZmdNotFound]] || 1 || 无 ||
+|-
+| 228 || [[User:ZuriGame123|ZuriGame123]] || 1 || 无 ||
+|-
+| 228 || [[User:Zwz211123|Zwz211123]] || 1 || 无 ||
+|-
+| 228 || [[User:一只普通的先锋骷髅|一只普通的先锋骷髅]] || 1 || 无 ||
+|-
+| 228 || [[User:一抹晚烟|一抹晚烟]] || 1 || 无 ||
+|-
+| 228 || [[User:图酱粉丝|图酱粉丝]] || 1 || 无 ||
+|-
+| 228 || [[User:天宇爱玩我的世界|天宇爱玩我的世界]] || 1 || 无 ||
+|-
+| 228 || [[User:小猪喝粥|小猪喝粥]] || 1 || 无 ||
+|-
+| 228 || [[User:旅人|旅人]] || 1 || 无 ||
+|-
+| 228 || [[User:熊二|熊二]] || 1 || 无 ||
+|-
+| 228 || [[User:爱玩精神鸦片|爱玩精神鸦片]] || 1 || 无 ||
+|-
+| 228 || [[User:独行者游戏频道|独行者游戏频道]] || 1 || 无 ||
+|-
+| 228 || [[User:美丽的丑八怪3|美丽的丑八怪3]] || 1 || 无 ||
+|-
+| 228 || [[User:金合欢|金合欢]] || 1 || 无 ||
+|-
+| 228 || [[User:马铥龙|马铥龙]] || 1 || 无 ||
+|-
+| 228 || [[User:马马龙|马马龙]] || 1 || 无 ||
+|-
+| 345 || [[User:BigGodKang|BigGodKang]] || 0 || 无 ||
+|-
+| 345 || [[User:Webmaster of Wikepadie|Webmaster of Wikepadie]] || 0 || 无 ||
+|-
+| 345 || [[User:Yoyolin|Yoyolin]] || 0 || 无 ||
+|-
+| 345 || [[User:吉米威尔斯|吉米威尔斯]] || 0 || 无 ||
+|}
